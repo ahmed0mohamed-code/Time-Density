@@ -18,4 +18,18 @@ Initial release of Time-Density
 
 ---
 
+## How to import it?
+1- Download the version 1.1
+2- open your vecode app.
+3- go to the extentions by clicking this icon on the left bar
+<img width="46" height="70" alt="image" src="https://github.com/user-attachments/assets/81127f41-6e22-45a4-81f0-41344037d74e" />
+4- click the 3 points at the top right of the left bar<img width="210" height="50" alt="image" src="https://github.com/user-attachments/assets/f7df783f-e385-40bf-8680-f1ed0f5bfc34" />
+5-Click install from VSIX.
+6- choose the file from where you downloaded in.
+7- after installing, restart VScode, it must work right now.
+
+**Note**
+It will start counting your points, WPM, and CPM after 1 minute and updated each minute.
+
+
 **Enjoy!**
